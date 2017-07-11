@@ -1,1 +1,1 @@
-include ':app', 'DataBinding', 'DataBinding1'
+include ':app', ':EventBus', 'DataBinding', 'DataBinding1'

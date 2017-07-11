@@ -43,7 +43,8 @@ public class MovieActitiviy extends AppCompatActivity {
         binding.fab.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Toast.makeText(MovieActitiviy.this,"test",Toast.LENGTH_LONG).show();
+                Toast.makeText(MovieActitiviy.this, "test", Toast.LENGTH_LONG).show();
+                doSearch(getString(R.string.love));
 //                new MaterialDialog.Builder(MovieActitiviy.this)
 //                        .title(R.string.search)
 //                        .input(R.string.input_hint, R.string.input_prefill, new MaterialDialog.InputCallback() {
@@ -114,6 +115,12 @@ public class MovieActitiviy extends AppCompatActivity {
             return holder;
         }
 
+        /**
+         * 说明在使用ListView、GridView、RecyclerView的时候，由于绑定的类不能确定，比如RecyclerView只有在onBindViewHolder()方法中才能确定绑定的Item，所以我们只有在该办法中动态得到Binding Class（ViewModel）、动态绑定数据。
+         *
+         * @param holder
+         * @param position
+         */
         @Override
         public void onBindViewHolder(BindingHolder holder, int position) {
             Movie movie = mMovies.get(position);

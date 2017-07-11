@@ -8,4 +8,5 @@
     <string name="input_hint">请输入tag</string>
     <string name="input_prefill"></string>
     <string name="default_search_tag">科幻</string>
+    <string name="love">爱情</string>
 </resources>
