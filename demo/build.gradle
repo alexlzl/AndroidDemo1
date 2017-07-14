@@ -1,0 +1,49 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 24
+    buildToolsVersion '25.0.0'
+
+    defaultConfig {
+        minSdkVersion 15
+        targetSdkVersion 19
+        versionCode 1
+        versionName "1.0"
+    }
+
+    dataBinding {
+        enabled = true
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+}
+
+dependencies {
+    // 以下几个库是演示案例所使用到的
+    debugCompile 'com.squareup.leakcanary:leakcanary-android:1.5'
+    releaseCompile 'com.squareup.leakcanary:leakcanary-android-no-op:1.5'
+    testCompile 'com.squareup.leakcanary:leakcanary-android-no-op:1.5'
+
+    compile 'pub.devrel:easypermissions:0.2.1'
+    // 以上几个库是演示案例所使用到的
+
+//    compile project(':library')
+
+    // -------------------- 以下4个库是必须依赖的 ----------------------------
+    compile 'cn.bingoogolapple:bga-photopicker:1.2.3@aar'
+    compile 'com.android.support:appcompat-v7:25.1.0'
+    compile 'com.android.support:recyclerview-v7:25.1.0'
+    compile 'cn.bingoogolapple:bga-adapter:1.1.8@aar'
+    // -------------------- 以上4个库是必须依赖的 ----------------------------
+
+    // 目前支持常见的 4 种图片加载库，必须在下面四个图片加载库中选择一个添加依赖
+//    compile 'com.github.bumptech.glide:glide:3.7.0'
+    compile 'com.squareup.picasso:picasso:2.5.2'
+//    compile 'com.nostra13.universalimageloader:universal-image-loader:1.9.5'
+//    compile 'org.xutils:xutils:3.3.36'
+}
