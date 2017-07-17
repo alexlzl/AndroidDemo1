@@ -4,6 +4,8 @@ import android.databinding.DataBindingUtil;
 import android.databinding.ViewDataBinding;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.View;
+
 import com.ihongqiqu.databinding.data.User;
 import com.ihongqiqu.databinding.BR;
 import com.ihongqiqu.databinding.databinding.ActivityDataBindingSample1Binding;
@@ -13,13 +15,13 @@ import com.ihongqiqu.databinding.event.MyHandlers;
  * 数据绑定
  */
 public class DataBindingSampleActivity1 extends AppCompatActivity {
-
+    User user;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setTitle("数据绑定");
 
-        User user = new User("jingle1267", "20");
+         user = new User("jingle1267", "20");
 
         // 第一种初始化方式
         ActivityDataBindingSample1Binding binding = DataBindingUtil.setContentView(this,
@@ -31,6 +33,11 @@ public class DataBindingSampleActivity1 extends AppCompatActivity {
 //                R.layout.activity_data_binding_sample1);
 //        binding1.setVariable(BR.user, user);
 
+    }
+
+    public void update(View view){
+        user.setAge("100");
+        user.setName("lzl");
     }
 
 }

@@ -1,1 +1,1 @@
-include ':app', ':EventBus', 'DataBinding', 'DataBinding1'
+include ':FriendCircleList', ':EventBus', ':WindowManager', 'DataBinding', 'DataBinding1', 'FriendCircle', ':FriendCircleListLib', ':demo', ':任务切换后台', ':任务切换后台lib'

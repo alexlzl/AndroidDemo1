@@ -20,7 +20,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
-            android:text="@{pig.getLabel}"
+            android:text="@{pig.label}"
             android:clickable="true"
             android:textAppearance="?android:attr/textAppearanceMedium" />
 
@@ -29,7 +29,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="27dp"
-            android:text="@{pig.getWeight}"
+            android:text="@{pig.weight}"
             android:clickable="true"
             android:textAppearance="?android:attr/textAppearanceMedium" />
 

@@ -5,8 +5,14 @@
       <module fileurl="file://$PROJECT_DIR$/DataBinding/DataBinding.iml" filepath="$PROJECT_DIR$/DataBinding/DataBinding.iml" />
       <module fileurl="file://$PROJECT_DIR$/DataBinding1/DataBinding1.iml" filepath="$PROJECT_DIR$/DataBinding1/DataBinding1.iml" />
       <module fileurl="file://$PROJECT_DIR$/EventBus/EventBus.iml" filepath="$PROJECT_DIR$/EventBus/EventBus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FriendCircle/FriendCircle.iml" filepath="$PROJECT_DIR$/FriendCircle/FriendCircle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FriendCircleList/FriendCircleList.iml" filepath="$PROJECT_DIR$/FriendCircleList/FriendCircleList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FriendCircleListLib/FriendCircleListLib.iml" filepath="$PROJECT_DIR$/FriendCircleListLib/FriendCircleListLib.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WindowManager/WindowManager.iml" filepath="$PROJECT_DIR$/WindowManager/WindowManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/任务切换后台/任务切换后台.iml" filepath="$PROJECT_DIR$/任务切换后台/任务切换后台.iml" />
+      <module fileurl="file://$PROJECT_DIR$/任务切换后台lib/任务切换后台lib.iml" filepath="$PROJECT_DIR$/任务切换后台lib/任务切换后台lib.iml" />
     </modules>
   </component>
 </project>

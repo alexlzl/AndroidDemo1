@@ -22,9 +22,9 @@ public class DataBindingSampleActivity3 extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setTitle("实时更新");
 
-        pig = new Pig();
-        pig.setLabel("ChangBaiShan");
-        pig.setWeight("200Kg");
+        pig = new Pig("ChangBaiShan","200Kg");
+//        pig.setLabel("ChangBaiShan");
+//        pig.setWeight("200Kg");
         PigHandler pigHandler = new PigHandler(this);
 
         ActivityDataBindingSample3Binding binding = DataBindingUtil.setContentView(this,
