@@ -12,6 +12,7 @@
     tools:context="com.ihongqiqu.databinding.MainActivity">
 
     <TextView
+        android:id="@+id/show"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center"
@@ -48,4 +49,17 @@
         android:id="@+id/button5"
         android:onClick="onClick"
         android:layout_gravity="center_horizontal" />
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="启动键盘"
+        android:id="@+id/et_tests"
+        android:onClick="onClick"
+        android:layout_gravity="center_horizontal" />
+    <EditText
+        android:id="@+id/et"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/colorAccent"
+        android:hint="test"/>
 </LinearLayout>
