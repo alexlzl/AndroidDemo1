@@ -11,6 +11,7 @@ import android.widget.TextView;
 import com.ihongqiqu.databinding.databinding.RvItemBinding;
 
 import java.util.ArrayList;
+import java.util.LinkedList;
 import java.util.List;
 
 /**
@@ -33,6 +34,15 @@ public class BindingAdapter extends RecyclerView.Adapter {
         }
     }
 
+    public void addData( int position,RvViewModel.Item item){
+        this.listdata.set(position,item);
+    }
+
+    public void add1(){
+        listdata.get(0).setAge(1000+"");
+        listdata.get(0).setTitle("test====");
+    }
+
     @Override
     public RecyclerView.ViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
         RvItemBinding binding = DataBindingUtil.inflate(layoutInflater, R.layout.rv_item, parent, false);
@@ -44,8 +54,16 @@ public class BindingAdapter extends RecyclerView.Adapter {
     @Override
     public void onBindViewHolder(RecyclerView.ViewHolder holder, int position) {
         RvViewModel.Item viewmodel=listdata.get(position);
+//        RvViewModel.Item item=new RvViewModel.Item();
+//        item.setAge("1000");
+//        item.setTitle("测试");
+//        listdata.set(position,item);
         ((MyViewHolder)holder).rvItemBinding.setVariable(BR.rv_item_data,viewmodel);
         ((MyViewHolder)holder).rvItemBinding.executePendingBindings();
+//        RvViewModel.Item item=new RvViewModel.Item();
+//        item.setAge("1000");
+//        item.setTitle("测试");
+//        listdata.set(position,item);
     }
 
     @Override

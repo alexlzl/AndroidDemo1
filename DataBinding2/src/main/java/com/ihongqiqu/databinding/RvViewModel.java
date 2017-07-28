@@ -1,5 +1,6 @@
 package com.ihongqiqu.databinding;
 
+import android.databinding.BaseObservable;
 import android.view.View;
 import android.widget.Toast;
 
@@ -25,7 +26,7 @@ public class RvViewModel {
     public final void onClickName(View view) {
         Toast.makeText(view.getContext(), "onClickName()", Toast.LENGTH_SHORT).show();
     }
-    public static  class Item {
+    public static  class Item  extends BaseObservable{
         public String age;
         public String title;
 
@@ -35,6 +36,7 @@ public class RvViewModel {
 
         public void setTitle(String title) {
             this.title = title;
+            notifyChange();
         }
 
         public String getAge() {
@@ -42,7 +44,9 @@ public class RvViewModel {
         }
 
         public void setAge(String age) {
+
             this.age = age;
+            notifyChange();
         }
     }
 }

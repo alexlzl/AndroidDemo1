@@ -129,6 +129,7 @@ public class MovieActitiviy extends AppCompatActivity {
                     .fitCenter()
                     .into(holder.binding.ivMovie);
             holder.binding.setVariable(com.aswifter.databinding.BR.movie, movie);
+
             holder.binding.executePendingBindings();
         }
 

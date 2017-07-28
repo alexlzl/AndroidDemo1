@@ -11,13 +11,19 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/DataBinding" />
             <option value="$PROJECT_DIR$/DataBinding1" />
+            <option value="$PROJECT_DIR$/DataBinding2" />
             <option value="$PROJECT_DIR$/EventBus" />
             <option value="$PROJECT_DIR$/FriendCircle" />
             <option value="$PROJECT_DIR$/FriendCircleList" />
             <option value="$PROJECT_DIR$/FriendCircleListLib" />
+            <option value="$PROJECT_DIR$/Https双向验证" />
+            <option value="$PROJECT_DIR$/RecyclerViewAdvancedDemo" />
+            <option value="$PROJECT_DIR$/RecyclerViewInsideScrollViewDemo" />
+            <option value="$PROJECT_DIR$/RxJava_Retrofit" />
             <option value="$PROJECT_DIR$/TestKeyBoard" />
             <option value="$PROJECT_DIR$/WindowManager" />
             <option value="$PROJECT_DIR$/demo" />
+            <option value="$PROJECT_DIR$/下载" />
             <option value="$PROJECT_DIR$/任务切换后台" />
             <option value="$PROJECT_DIR$/任务切换后台lib" />
           </set>
