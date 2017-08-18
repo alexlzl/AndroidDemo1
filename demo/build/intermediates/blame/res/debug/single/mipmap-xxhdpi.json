@@ -1,14 +1,14 @@
 [
     {
-        "merged": "C:\\Users\\liuzhouliang\\AndroidStudioProjects\\MyApplication\\demo\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
-        "source": "C:\\Users\\liuzhouliang\\AndroidStudioProjects\\MyApplication\\demo\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+        "merged": "D:\\Demo\\Demo1\\demo\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\ic_launcher.png",
+        "source": "D:\\Demo\\Demo1\\demo\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\Users\\liuzhouliang\\AndroidStudioProjects\\MyApplication\\demo\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\avatar.png",
-        "source": "C:\\Users\\liuzhouliang\\AndroidStudioProjects\\MyApplication\\demo\\src\\main\\res\\mipmap-xxhdpi\\avatar.png"
+        "merged": "D:\\Demo\\Demo1\\demo\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\pic_icon_delete.png",
+        "source": "D:\\Demo\\Demo1\\demo\\src\\main\\res\\mipmap-xxhdpi\\pic_icon_delete.png"
     },
     {
-        "merged": "C:\\Users\\liuzhouliang\\AndroidStudioProjects\\MyApplication\\demo\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\pic_icon_delete.png",
-        "source": "C:\\Users\\liuzhouliang\\AndroidStudioProjects\\MyApplication\\demo\\src\\main\\res\\mipmap-xxhdpi\\pic_icon_delete.png"
+        "merged": "D:\\Demo\\Demo1\\demo\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi\\avatar.png",
+        "source": "D:\\Demo\\Demo1\\demo\\src\\main\\res\\mipmap-xxhdpi\\avatar.png"
     }
 ]

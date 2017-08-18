@@ -13,10 +13,21 @@ public class Pig extends BaseObservable {
 
     private String label;
     private String weight;
+    private String  test;
 
     public Pig(String label,String weight){
         this.label=label;
         this.weight=weight;
+    }
+
+    @Bindable
+    public String getTest(){
+        return test;
+    }
+
+    public void setTest(String test){
+        this.test=test;
+           notifyPropertyChanged(BR.test);
     }
 
     @Bindable

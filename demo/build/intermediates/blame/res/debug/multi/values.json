@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\liuzhouliang\\AndroidStudioProjects\\MyApplication\\demo\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+        "outputFile": "D:\\Demo\\Demo1\\demo\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
         "map": [
             {
                 "to": {
@@ -809,7 +809,7 @@
                     "endOffset": 3019
                 },
                 "from": {
-                    "file": "C:\\Users\\liuzhouliang\\AndroidStudioProjects\\MyApplication\\demo\\src\\main\\res\\values\\colors.xml",
+                    "file": "D:\\Demo\\Demo1\\demo\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -828,7 +828,7 @@
                     "endOffset": 3070
                 },
                 "from": {
-                    "file": "C:\\Users\\liuzhouliang\\AndroidStudioProjects\\MyApplication\\demo\\src\\main\\res\\values\\colors.xml",
+                    "file": "D:\\Demo\\Demo1\\demo\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -847,7 +847,7 @@
                     "endOffset": 3128
                 },
                 "from": {
-                    "file": "C:\\Users\\liuzhouliang\\AndroidStudioProjects\\MyApplication\\demo\\src\\main\\res\\values\\colors.xml",
+                    "file": "D:\\Demo\\Demo1\\demo\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -1246,7 +1246,7 @@
                     "endOffset": 4413
                 },
                 "from": {
-                    "file": "C:\\Users\\liuzhouliang\\AndroidStudioProjects\\MyApplication\\demo\\src\\main\\res\\values\\colors.xml",
+                    "file": "D:\\Demo\\Demo1\\demo\\src\\main\\res\\values\\colors.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -5445,7 +5445,7 @@
                     "endOffset": 40439
                 },
                 "from": {
-                    "file": "C:\\Users\\liuzhouliang\\AndroidStudioProjects\\MyApplication\\demo\\src\\main\\res\\values\\strings.xml",
+                    "file": "D:\\Demo\\Demo1\\demo\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 1,
                         "startColumn": 4,
@@ -6225,7 +6225,7 @@
                     "endOffset": 44059
                 },
                 "from": {
-                    "file": "C:\\Users\\liuzhouliang\\AndroidStudioProjects\\MyApplication\\demo\\src\\main\\res\\values\\styles.xml",
+                    "file": "D:\\Demo\\Demo1\\demo\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -6246,7 +6246,7 @@
                     "endOffset": 44269
                 },
                 "from": {
-                    "file": "C:\\Users\\liuzhouliang\\AndroidStudioProjects\\MyApplication\\demo\\src\\main\\res\\values\\styles_base.xml",
+                    "file": "D:\\Demo\\Demo1\\demo\\src\\main\\res\\values\\styles_base.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
@@ -6267,7 +6267,7 @@
                     "endOffset": 44381
                 },
                 "from": {
-                    "file": "C:\\Users\\liuzhouliang\\AndroidStudioProjects\\MyApplication\\demo\\src\\main\\res\\values\\styles_base.xml",
+                    "file": "D:\\Demo\\Demo1\\demo\\src\\main\\res\\values\\styles_base.xml",
                     "position": {
                         "startLine": 91,
                         "startColumn": 4,
@@ -6288,7 +6288,7 @@
                     "endOffset": 44489
                 },
                 "from": {
-                    "file": "C:\\Users\\liuzhouliang\\AndroidStudioProjects\\MyApplication\\demo\\src\\main\\res\\values\\styles_base.xml",
+                    "file": "D:\\Demo\\Demo1\\demo\\src\\main\\res\\values\\styles_base.xml",
                     "position": {
                         "startLine": 87,
                         "startColumn": 4,
@@ -6309,7 +6309,7 @@
                     "endOffset": 44698
                 },
                 "from": {
-                    "file": "C:\\Users\\liuzhouliang\\AndroidStudioProjects\\MyApplication\\demo\\src\\main\\res\\values\\styles_base.xml",
+                    "file": "D:\\Demo\\Demo1\\demo\\src\\main\\res\\values\\styles_base.xml",
                     "position": {
                         "startLine": 41,
                         "startColumn": 4,
@@ -6330,7 +6330,7 @@
                     "endOffset": 44809
                 },
                 "from": {
-                    "file": "C:\\Users\\liuzhouliang\\AndroidStudioProjects\\MyApplication\\demo\\src\\main\\res\\values\\styles_base.xml",
+                    "file": "D:\\Demo\\Demo1\\demo\\src\\main\\res\\values\\styles_base.xml",
                     "position": {
                         "startLine": 107,
                         "startColumn": 4,
@@ -6351,7 +6351,7 @@
                     "endOffset": 44916
                 },
                 "from": {
-                    "file": "C:\\Users\\liuzhouliang\\AndroidStudioProjects\\MyApplication\\demo\\src\\main\\res\\values\\styles_base.xml",
+                    "file": "D:\\Demo\\Demo1\\demo\\src\\main\\res\\values\\styles_base.xml",
                     "position": {
                         "startLine": 103,
                         "startColumn": 4,
@@ -6372,7 +6372,7 @@
                     "endOffset": 45538
                 },
                 "from": {
-                    "file": "C:\\Users\\liuzhouliang\\AndroidStudioProjects\\MyApplication\\demo\\src\\main\\res\\values\\styles.xml",
+                    "file": "D:\\Demo\\Demo1\\demo\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -9341,7 +9341,7 @@
                     "endOffset": 111834
                 },
                 "from": {
-                    "file": "C:\\Users\\liuzhouliang\\AndroidStudioProjects\\MyApplication\\demo\\src\\main\\res\\values\\styles_base.xml",
+                    "file": "D:\\Demo\\Demo1\\demo\\src\\main\\res\\values\\styles_base.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -9362,7 +9362,7 @@
                     "endOffset": 111946
                 },
                 "from": {
-                    "file": "C:\\Users\\liuzhouliang\\AndroidStudioProjects\\MyApplication\\demo\\src\\main\\res\\values\\styles_base.xml",
+                    "file": "D:\\Demo\\Demo1\\demo\\src\\main\\res\\values\\styles_base.xml",
                     "position": {
                         "startLine": 83,
                         "startColumn": 4,
@@ -9383,7 +9383,7 @@
                     "endOffset": 112054
                 },
                 "from": {
-                    "file": "C:\\Users\\liuzhouliang\\AndroidStudioProjects\\MyApplication\\demo\\src\\main\\res\\values\\styles_base.xml",
+                    "file": "D:\\Demo\\Demo1\\demo\\src\\main\\res\\values\\styles_base.xml",
                     "position": {
                         "startLine": 79,
                         "startColumn": 4,
@@ -9404,7 +9404,7 @@
                     "endOffset": 112222
                 },
                 "from": {
-                    "file": "C:\\Users\\liuzhouliang\\AndroidStudioProjects\\MyApplication\\demo\\src\\main\\res\\values\\styles_base.xml",
+                    "file": "D:\\Demo\\Demo1\\demo\\src\\main\\res\\values\\styles_base.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -9425,7 +9425,7 @@
                     "endOffset": 112335
                 },
                 "from": {
-                    "file": "C:\\Users\\liuzhouliang\\AndroidStudioProjects\\MyApplication\\demo\\src\\main\\res\\values\\styles_base.xml",
+                    "file": "D:\\Demo\\Demo1\\demo\\src\\main\\res\\values\\styles_base.xml",
                     "position": {
                         "startLine": 75,
                         "startColumn": 4,
@@ -9446,7 +9446,7 @@
                     "endOffset": 112444
                 },
                 "from": {
-                    "file": "C:\\Users\\liuzhouliang\\AndroidStudioProjects\\MyApplication\\demo\\src\\main\\res\\values\\styles_base.xml",
+                    "file": "D:\\Demo\\Demo1\\demo\\src\\main\\res\\values\\styles_base.xml",
                     "position": {
                         "startLine": 71,
                         "startColumn": 4,
@@ -9467,7 +9467,7 @@
                     "endOffset": 112601
                 },
                 "from": {
-                    "file": "C:\\Users\\liuzhouliang\\AndroidStudioProjects\\MyApplication\\demo\\src\\main\\res\\values\\styles_base.xml",
+                    "file": "D:\\Demo\\Demo1\\demo\\src\\main\\res\\values\\styles_base.xml",
                     "position": {
                         "startLine": 111,
                         "startColumn": 4,
@@ -9488,7 +9488,7 @@
                     "endOffset": 112768
                 },
                 "from": {
-                    "file": "C:\\Users\\liuzhouliang\\AndroidStudioProjects\\MyApplication\\demo\\src\\main\\res\\values\\styles_base.xml",
+                    "file": "D:\\Demo\\Demo1\\demo\\src\\main\\res\\values\\styles_base.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -9509,7 +9509,7 @@
                     "endOffset": 112880
                 },
                 "from": {
-                    "file": "C:\\Users\\liuzhouliang\\AndroidStudioProjects\\MyApplication\\demo\\src\\main\\res\\values\\styles_base.xml",
+                    "file": "D:\\Demo\\Demo1\\demo\\src\\main\\res\\values\\styles_base.xml",
                     "position": {
                         "startLine": 59,
                         "startColumn": 4,
@@ -9530,7 +9530,7 @@
                     "endOffset": 112988
                 },
                 "from": {
-                    "file": "C:\\Users\\liuzhouliang\\AndroidStudioProjects\\MyApplication\\demo\\src\\main\\res\\values\\styles_base.xml",
+                    "file": "D:\\Demo\\Demo1\\demo\\src\\main\\res\\values\\styles_base.xml",
                     "position": {
                         "startLine": 55,
                         "startColumn": 4,
@@ -9551,7 +9551,7 @@
                     "endOffset": 113451
                 },
                 "from": {
-                    "file": "C:\\Users\\liuzhouliang\\AndroidStudioProjects\\MyApplication\\demo\\src\\main\\res\\values\\styles.xml",
+                    "file": "D:\\Demo\\Demo1\\demo\\src\\main\\res\\values\\styles.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -9572,7 +9572,7 @@
                     "endOffset": 113608
                 },
                 "from": {
-                    "file": "C:\\Users\\liuzhouliang\\AndroidStudioProjects\\MyApplication\\demo\\src\\main\\res\\values\\styles_base.xml",
+                    "file": "D:\\Demo\\Demo1\\demo\\src\\main\\res\\values\\styles_base.xml",
                     "position": {
                         "startLine": 116,
                         "startColumn": 4,
@@ -13346,7 +13346,7 @@
                     "endOffset": 143387
                 },
                 "from": {
-                    "file": "C:\\Users\\liuzhouliang\\AndroidStudioProjects\\MyApplication\\demo\\src\\main\\res\\values\\styles_base.xml",
+                    "file": "D:\\Demo\\Demo1\\demo\\src\\main\\res\\values\\styles_base.xml",
                     "position": {
                         "startLine": 35,
                         "startColumn": 4,
@@ -13367,7 +13367,7 @@
                     "endOffset": 143498
                 },
                 "from": {
-                    "file": "C:\\Users\\liuzhouliang\\AndroidStudioProjects\\MyApplication\\demo\\src\\main\\res\\values\\styles_base.xml",
+                    "file": "D:\\Demo\\Demo1\\demo\\src\\main\\res\\values\\styles_base.xml",
                     "position": {
                         "startLine": 99,
                         "startColumn": 4,
@@ -13388,7 +13388,7 @@
                     "endOffset": 143605
                 },
                 "from": {
-                    "file": "C:\\Users\\liuzhouliang\\AndroidStudioProjects\\MyApplication\\demo\\src\\main\\res\\values\\styles_base.xml",
+                    "file": "D:\\Demo\\Demo1\\demo\\src\\main\\res\\values\\styles_base.xml",
                     "position": {
                         "startLine": 95,
                         "startColumn": 4,
@@ -13409,7 +13409,7 @@
                     "endOffset": 143772
                 },
                 "from": {
-                    "file": "C:\\Users\\liuzhouliang\\AndroidStudioProjects\\MyApplication\\demo\\src\\main\\res\\values\\styles_base.xml",
+                    "file": "D:\\Demo\\Demo1\\demo\\src\\main\\res\\values\\styles_base.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -13430,7 +13430,7 @@
                     "endOffset": 143884
                 },
                 "from": {
-                    "file": "C:\\Users\\liuzhouliang\\AndroidStudioProjects\\MyApplication\\demo\\src\\main\\res\\values\\styles_base.xml",
+                    "file": "D:\\Demo\\Demo1\\demo\\src\\main\\res\\values\\styles_base.xml",
                     "position": {
                         "startLine": 51,
                         "startColumn": 4,
@@ -13451,7 +13451,7 @@
                     "endOffset": 143992
                 },
                 "from": {
-                    "file": "C:\\Users\\liuzhouliang\\AndroidStudioProjects\\MyApplication\\demo\\src\\main\\res\\values\\styles_base.xml",
+                    "file": "D:\\Demo\\Demo1\\demo\\src\\main\\res\\values\\styles_base.xml",
                     "position": {
                         "startLine": 47,
                         "startColumn": 4,
@@ -13472,7 +13472,7 @@
                     "endOffset": 144158
                 },
                 "from": {
-                    "file": "C:\\Users\\liuzhouliang\\AndroidStudioProjects\\MyApplication\\demo\\src\\main\\res\\values\\styles_base.xml",
+                    "file": "D:\\Demo\\Demo1\\demo\\src\\main\\res\\values\\styles_base.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -13493,7 +13493,7 @@
                     "endOffset": 144269
                 },
                 "from": {
-                    "file": "C:\\Users\\liuzhouliang\\AndroidStudioProjects\\MyApplication\\demo\\src\\main\\res\\values\\styles_base.xml",
+                    "file": "D:\\Demo\\Demo1\\demo\\src\\main\\res\\values\\styles_base.xml",
                     "position": {
                         "startLine": 67,
                         "startColumn": 4,
@@ -13514,7 +13514,7 @@
                     "endOffset": 144376
                 },
                 "from": {
-                    "file": "C:\\Users\\liuzhouliang\\AndroidStudioProjects\\MyApplication\\demo\\src\\main\\res\\values\\styles_base.xml",
+                    "file": "D:\\Demo\\Demo1\\demo\\src\\main\\res\\values\\styles_base.xml",
                     "position": {
                         "startLine": 63,
                         "startColumn": 4,

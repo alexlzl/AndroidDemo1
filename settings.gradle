@@ -1,4 +1,4 @@
-include ':FriendCircleList', ':EventBus', ':WindowManager', ':TestKeyBoard', ':Bundle', ':TextView解析html', 'DataBinding', 'DataBinding1', 'FriendCircle', ':FriendCircleListLib', ':demo', ':任务切换后台', ':任务切换后台lib', 'DataBinding2', '下载', 'RxJava_Retrofit', 'Https双向验证', ':RecyclerViewAdvancedDemo', ':RecyclerViewInsideScrollViewDemo', 'Realm'
+include ':FriendCircleList', ':EventBus', ':WindowManager', ':TestKeyBoard', ':Bundle', ':TextView解析html', 'DataBinding', 'DataBinding1', 'FriendCircle', ':FriendCircleListLib', ':demo', ':任务切换后台', ':任务切换后台lib', 'DataBinding2', '下载', 'RxJava_Retrofit', 'Https双向验证', ':RecyclerViewAdvancedDemo', ':RecyclerViewInsideScrollViewDemo', 'Realm', 'DataBindingapp5', 'DataBindingapp4', 'DataBindingapp3', 'DataBindingapp2', 'DataBindingapp', 'DataBindingapp9', 'DataBindingapp8', 'DataBindingapp7', 'DataBindingapp6'
 include ':SchemeURL'
 include ':SchemeURL1'
 include ':TextView网络图片'

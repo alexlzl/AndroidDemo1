@@ -6,6 +6,16 @@
       <module fileurl="file://$PROJECT_DIR$/DataBinding/DataBinding.iml" filepath="$PROJECT_DIR$/DataBinding/DataBinding.iml" />
       <module fileurl="file://$PROJECT_DIR$/DataBinding1/DataBinding1.iml" filepath="$PROJECT_DIR$/DataBinding1/DataBinding1.iml" />
       <module fileurl="file://$PROJECT_DIR$/DataBinding2/DataBinding2.iml" filepath="$PROJECT_DIR$/DataBinding2/DataBinding2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataBindingapp/DataBindingapp.iml" filepath="$PROJECT_DIR$/DataBindingapp/DataBindingapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataBindingapp2/DataBindingapp2.iml" filepath="$PROJECT_DIR$/DataBindingapp2/DataBindingapp2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataBindingapp3/DataBindingapp3.iml" filepath="$PROJECT_DIR$/DataBindingapp3/DataBindingapp3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataBindingapp4/DataBindingapp4.iml" filepath="$PROJECT_DIR$/DataBindingapp4/DataBindingapp4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataBindingapp5/DataBindingapp5.iml" filepath="$PROJECT_DIR$/DataBindingapp5/DataBindingapp5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataBindingapp6/DataBindingapp6.iml" filepath="$PROJECT_DIR$/DataBindingapp6/DataBindingapp6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataBindingapp7/DataBindingapp7.iml" filepath="$PROJECT_DIR$/DataBindingapp7/DataBindingapp7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataBindingapp8/DataBindingapp8.iml" filepath="$PROJECT_DIR$/DataBindingapp8/DataBindingapp8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataBindingapp9/DataBindingapp9.iml" filepath="$PROJECT_DIR$/DataBindingapp9/DataBindingapp9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Demo1.iml" filepath="$PROJECT_DIR$/Demo1.iml" />
       <module fileurl="file://$PROJECT_DIR$/EventBus/EventBus.iml" filepath="$PROJECT_DIR$/EventBus/EventBus.iml" />
       <module fileurl="file://$PROJECT_DIR$/FriendCircle/FriendCircle.iml" filepath="$PROJECT_DIR$/FriendCircle/FriendCircle.iml" />
       <module fileurl="file://$PROJECT_DIR$/FriendCircleList/FriendCircleList.iml" filepath="$PROJECT_DIR$/FriendCircleList/FriendCircleList.iml" />

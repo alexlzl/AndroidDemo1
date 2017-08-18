@@ -1,0 +1,17 @@
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+    <data class=".Custom">
+        <variable
+            name="str"
+            type="android.databinding.ObservableField&lt;String>" />
+        <variable
+            name="handler"
+            type="org.loader.app7.MainActivity" />
+    </data>
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@{str.get}"
+        android:onClick="@{handler.click}"/>
+</layout>

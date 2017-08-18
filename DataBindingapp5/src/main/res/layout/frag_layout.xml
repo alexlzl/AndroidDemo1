@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android">
+    <data class=".Custom">
+        <import type="org.loader.app5.Student" />
+        <variable
+            name="stu"
+            type="Student" />
+        <variable
+            name="frag"
+            type="org.loader.app5.MyFragment" />
+    </data>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:onClick="@{frag.click}"
+            android:text="@{stu.name}"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@{String.valueOf(stu.age)}"/>
+    </LinearLayout>
+</layout>
