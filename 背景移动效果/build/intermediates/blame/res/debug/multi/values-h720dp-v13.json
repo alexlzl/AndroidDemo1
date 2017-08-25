@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "D:\\Demo\\Demo1\\背景移动效果\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h720dp-v13\\values-h720dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 66,
+                    "endOffset": 117
+                },
+                "from": {
+                    "file": "C:\\Users\\liuzhouliang\\.android\\build-cache\\9774643070893d0c4cc77d697d60f8b15852010f\\output\\res\\values-h720dp\\values-h720dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 279,
+                        "endColumn": 66,
+                        "endOffset": 341
+                    }
+                }
+            }
+        ]
+    }
+]

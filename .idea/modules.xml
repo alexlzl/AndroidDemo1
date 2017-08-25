@@ -14,7 +14,7 @@
       <module fileurl="file://$PROJECT_DIR$/DataBindingapp6/DataBindingapp6.iml" filepath="$PROJECT_DIR$/DataBindingapp6/DataBindingapp6.iml" />
       <module fileurl="file://$PROJECT_DIR$/DataBindingapp7/DataBindingapp7.iml" filepath="$PROJECT_DIR$/DataBindingapp7/DataBindingapp7.iml" />
       <module fileurl="file://$PROJECT_DIR$/DataBindingapp8/DataBindingapp8.iml" filepath="$PROJECT_DIR$/DataBindingapp8/DataBindingapp8.iml" />
-      <module fileurl="file://$PROJECT_DIR$/DataBindingapp9/DataBindingapp9.iml" filepath="$PROJECT_DIR$/DataBindingapp9/DataBindingapp9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DataBindingapp9-BindingConversion/DataBindingapp9-BindingConversion.iml" filepath="$PROJECT_DIR$/DataBindingapp9-BindingConversion/DataBindingapp9-BindingConversion.iml" />
       <module fileurl="file://$PROJECT_DIR$/Demo1.iml" filepath="$PROJECT_DIR$/Demo1.iml" />
       <module fileurl="file://$PROJECT_DIR$/EventBus/EventBus.iml" filepath="$PROJECT_DIR$/EventBus/EventBus.iml" />
       <module fileurl="file://$PROJECT_DIR$/FriendCircle/FriendCircle.iml" filepath="$PROJECT_DIR$/FriendCircle/FriendCircle.iml" />
@@ -25,6 +25,7 @@
       <module fileurl="file://$PROJECT_DIR$/Realm/Realm.iml" filepath="$PROJECT_DIR$/Realm/Realm.iml" />
       <module fileurl="file://$PROJECT_DIR$/RecyclerViewAdvancedDemo/RecyclerViewAdvancedDemo.iml" filepath="$PROJECT_DIR$/RecyclerViewAdvancedDemo/RecyclerViewAdvancedDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/RecyclerViewInsideScrollViewDemo/RecyclerViewInsideScrollViewDemo.iml" filepath="$PROJECT_DIR$/RecyclerViewInsideScrollViewDemo/RecyclerViewInsideScrollViewDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecyclerView嵌套/RecyclerView嵌套.iml" filepath="$PROJECT_DIR$/RecyclerView嵌套/RecyclerView嵌套.iml" />
       <module fileurl="file://$PROJECT_DIR$/RxJava_Retrofit/RxJava_Retrofit.iml" filepath="$PROJECT_DIR$/RxJava_Retrofit/RxJava_Retrofit.iml" />
       <module fileurl="file://$PROJECT_DIR$/SchemeURL/SchemeURL.iml" filepath="$PROJECT_DIR$/SchemeURL/SchemeURL.iml" />
       <module fileurl="file://$PROJECT_DIR$/SchemeURL1/SchemeURL1.iml" filepath="$PROJECT_DIR$/SchemeURL1/SchemeURL1.iml" />
@@ -32,10 +33,14 @@
       <module fileurl="file://$PROJECT_DIR$/TextView网络图片/TextView网络图片.iml" filepath="$PROJECT_DIR$/TextView网络图片/TextView网络图片.iml" />
       <module fileurl="file://$PROJECT_DIR$/TextView解析html/TextView解析html.iml" filepath="$PROJECT_DIR$/TextView解析html/TextView解析html.iml" />
       <module fileurl="file://$PROJECT_DIR$/WindowManager/WindowManager.iml" filepath="$PROJECT_DIR$/WindowManager/WindowManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/databinding_bindingconversion/databinding_bindingconversion.iml" filepath="$PROJECT_DIR$/databinding_bindingconversion/databinding_bindingconversion.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LayoutManager/layoutmanager.iml" filepath="$PROJECT_DIR$/LayoutManager/layoutmanager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
       <module fileurl="file://$PROJECT_DIR$/下载/下载.iml" filepath="$PROJECT_DIR$/下载/下载.iml" />
       <module fileurl="file://$PROJECT_DIR$/任务切换后台/任务切换后台.iml" filepath="$PROJECT_DIR$/任务切换后台/任务切换后台.iml" />
       <module fileurl="file://$PROJECT_DIR$/任务切换后台lib/任务切换后台lib.iml" filepath="$PROJECT_DIR$/任务切换后台lib/任务切换后台lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/背景移动效果/背景移动效果.iml" filepath="$PROJECT_DIR$/背景移动效果/背景移动效果.iml" />
     </modules>
   </component>
 </project>

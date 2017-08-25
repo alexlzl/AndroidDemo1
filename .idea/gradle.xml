@@ -21,15 +21,17 @@
             <option value="$PROJECT_DIR$/DataBindingapp6" />
             <option value="$PROJECT_DIR$/DataBindingapp7" />
             <option value="$PROJECT_DIR$/DataBindingapp8" />
-            <option value="$PROJECT_DIR$/DataBindingapp9" />
+            <option value="$PROJECT_DIR$/DataBindingapp9-BindingConversion" />
             <option value="$PROJECT_DIR$/EventBus" />
             <option value="$PROJECT_DIR$/FriendCircle" />
             <option value="$PROJECT_DIR$/FriendCircleList" />
             <option value="$PROJECT_DIR$/FriendCircleListLib" />
             <option value="$PROJECT_DIR$/Https双向验证" />
+            <option value="$PROJECT_DIR$/LayoutManager" />
             <option value="$PROJECT_DIR$/Realm" />
             <option value="$PROJECT_DIR$/RecyclerViewAdvancedDemo" />
             <option value="$PROJECT_DIR$/RecyclerViewInsideScrollViewDemo" />
+            <option value="$PROJECT_DIR$/RecyclerView嵌套" />
             <option value="$PROJECT_DIR$/RxJava_Retrofit" />
             <option value="$PROJECT_DIR$/SchemeURL" />
             <option value="$PROJECT_DIR$/SchemeURL1" />
@@ -37,10 +39,13 @@
             <option value="$PROJECT_DIR$/TextView网络图片" />
             <option value="$PROJECT_DIR$/TextView解析html" />
             <option value="$PROJECT_DIR$/WindowManager" />
+            <option value="$PROJECT_DIR$/databinding_bindingconversion" />
             <option value="$PROJECT_DIR$/demo" />
+            <option value="$PROJECT_DIR$/library" />
             <option value="$PROJECT_DIR$/下载" />
             <option value="$PROJECT_DIR$/任务切换后台" />
             <option value="$PROJECT_DIR$/任务切换后台lib" />
+            <option value="$PROJECT_DIR$/背景移动效果" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

@@ -1,0 +1,40 @@
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<!--可以看到，系统自动为我们的activity_main布局生成了对应的ActivityMainBinding类，我们也可以自己定义该Binding类的类名
+
+<data class="TestLayoutMain">
+        <import type="com.example.myapplication.UserInfo" alias="AliasUserInfo"/>
+        <variable
+            name="user"
+            type="AliasUserInfo"/>
+</data>
+此时生成的Binding类名获取方式如下：
+
+TestLayoutMain binding = DataBindingUtil.setContentView(MainActivity.this,R.layout.activity_main);-->
+    <data class=".BindConversion">
+
+        <import type="android.graphics.Bitmap" />
+
+        <variable
+            name="isColor"
+            type="java.lang.Boolean" />
+
+    </data>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <View
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="coding" />
+
+    </LinearLayout>
+</layout>
