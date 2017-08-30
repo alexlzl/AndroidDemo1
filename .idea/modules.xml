@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Bundle/Bundle.iml" filepath="$PROJECT_DIR$/Bundle/Bundle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CustomLayoutManager/CustomLayoutManager.iml" filepath="$PROJECT_DIR$/CustomLayoutManager/CustomLayoutManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CustomLayoutManager1/CustomLayoutManager1.iml" filepath="$PROJECT_DIR$/CustomLayoutManager1/CustomLayoutManager1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CustomLayoutManager1Lib/CustomLayoutManager1Lib.iml" filepath="$PROJECT_DIR$/CustomLayoutManager1Lib/CustomLayoutManager1Lib.iml" />
       <module fileurl="file://$PROJECT_DIR$/DataBinding/DataBinding.iml" filepath="$PROJECT_DIR$/DataBinding/DataBinding.iml" />
       <module fileurl="file://$PROJECT_DIR$/DataBinding1/DataBinding1.iml" filepath="$PROJECT_DIR$/DataBinding1/DataBinding1.iml" />
       <module fileurl="file://$PROJECT_DIR$/DataBinding2/DataBinding2.iml" filepath="$PROJECT_DIR$/DataBinding2/DataBinding2.iml" />
@@ -17,10 +20,12 @@
       <module fileurl="file://$PROJECT_DIR$/DataBindingapp9-BindingConversion/DataBindingapp9-BindingConversion.iml" filepath="$PROJECT_DIR$/DataBindingapp9-BindingConversion/DataBindingapp9-BindingConversion.iml" />
       <module fileurl="file://$PROJECT_DIR$/Demo1.iml" filepath="$PROJECT_DIR$/Demo1.iml" />
       <module fileurl="file://$PROJECT_DIR$/EventBus/EventBus.iml" filepath="$PROJECT_DIR$/EventBus/EventBus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FocusableInTouchMode/FocusableInTouchMode.iml" filepath="$PROJECT_DIR$/FocusableInTouchMode/FocusableInTouchMode.iml" />
       <module fileurl="file://$PROJECT_DIR$/FriendCircle/FriendCircle.iml" filepath="$PROJECT_DIR$/FriendCircle/FriendCircle.iml" />
       <module fileurl="file://$PROJECT_DIR$/FriendCircleList/FriendCircleList.iml" filepath="$PROJECT_DIR$/FriendCircleList/FriendCircleList.iml" />
       <module fileurl="file://$PROJECT_DIR$/FriendCircleListLib/FriendCircleListLib.iml" filepath="$PROJECT_DIR$/FriendCircleListLib/FriendCircleListLib.iml" />
       <module fileurl="file://$PROJECT_DIR$/Https双向验证/Https双向验证.iml" filepath="$PROJECT_DIR$/Https双向验证/Https双向验证.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LayoutManager/LayoutManager.iml" filepath="$PROJECT_DIR$/LayoutManager/LayoutManager.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
       <module fileurl="file://$PROJECT_DIR$/Realm/Realm.iml" filepath="$PROJECT_DIR$/Realm/Realm.iml" />
       <module fileurl="file://$PROJECT_DIR$/RecyclerViewAdvancedDemo/RecyclerViewAdvancedDemo.iml" filepath="$PROJECT_DIR$/RecyclerViewAdvancedDemo/RecyclerViewAdvancedDemo.iml" />
@@ -29,18 +34,22 @@
       <module fileurl="file://$PROJECT_DIR$/RxJava_Retrofit/RxJava_Retrofit.iml" filepath="$PROJECT_DIR$/RxJava_Retrofit/RxJava_Retrofit.iml" />
       <module fileurl="file://$PROJECT_DIR$/SchemeURL/SchemeURL.iml" filepath="$PROJECT_DIR$/SchemeURL/SchemeURL.iml" />
       <module fileurl="file://$PROJECT_DIR$/SchemeURL1/SchemeURL1.iml" filepath="$PROJECT_DIR$/SchemeURL1/SchemeURL1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Scroller/Scroller.iml" filepath="$PROJECT_DIR$/Scroller/Scroller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Scroller1/Scroller1.iml" filepath="$PROJECT_DIR$/Scroller1/Scroller1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Scroller2/Scroller2.iml" filepath="$PROJECT_DIR$/Scroller2/Scroller2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Scroller2Library/Scroller2Library.iml" filepath="$PROJECT_DIR$/Scroller2Library/Scroller2Library.iml" />
       <module fileurl="file://$PROJECT_DIR$/TestKeyBoard/TestKeyBoard.iml" filepath="$PROJECT_DIR$/TestKeyBoard/TestKeyBoard.iml" />
       <module fileurl="file://$PROJECT_DIR$/TextView网络图片/TextView网络图片.iml" filepath="$PROJECT_DIR$/TextView网络图片/TextView网络图片.iml" />
       <module fileurl="file://$PROJECT_DIR$/TextView解析html/TextView解析html.iml" filepath="$PROJECT_DIR$/TextView解析html/TextView解析html.iml" />
       <module fileurl="file://$PROJECT_DIR$/WindowManager/WindowManager.iml" filepath="$PROJECT_DIR$/WindowManager/WindowManager.iml" />
       <module fileurl="file://$PROJECT_DIR$/databinding_bindingconversion/databinding_bindingconversion.iml" filepath="$PROJECT_DIR$/databinding_bindingconversion/databinding_bindingconversion.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/LayoutManager/layoutmanager.iml" filepath="$PROJECT_DIR$/LayoutManager/layoutmanager.iml" />
-      <module fileurl="file://$PROJECT_DIR$/library/library.iml" filepath="$PROJECT_DIR$/library/library.iml" />
       <module fileurl="file://$PROJECT_DIR$/下载/下载.iml" filepath="$PROJECT_DIR$/下载/下载.iml" />
       <module fileurl="file://$PROJECT_DIR$/任务切换后台/任务切换后台.iml" filepath="$PROJECT_DIR$/任务切换后台/任务切换后台.iml" />
       <module fileurl="file://$PROJECT_DIR$/任务切换后台lib/任务切换后台lib.iml" filepath="$PROJECT_DIR$/任务切换后台lib/任务切换后台lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/滑动/滑动.iml" filepath="$PROJECT_DIR$/滑动/滑动.iml" />
       <module fileurl="file://$PROJECT_DIR$/背景移动效果/背景移动效果.iml" filepath="$PROJECT_DIR$/背景移动效果/背景移动效果.iml" />
+      <module fileurl="file://$PROJECT_DIR$/背景移动效果Lib/背景移动效果Lib.iml" filepath="$PROJECT_DIR$/背景移动效果Lib/背景移动效果Lib.iml" />
     </modules>
   </component>
 </project>
