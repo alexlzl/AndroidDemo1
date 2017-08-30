@@ -3,6 +3,7 @@ package com.example.myapplication;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
+import android.widget.TextView;
 
 /**
  * 注意：调用View的scrollTo()和scrollBy()是用于滑动View中的内容，而不是把某个View的位置进行改变。如果想改变莫个View在屏幕中的位置，可以使用如下的方法。
@@ -18,18 +19,30 @@ import android.view.View;
 
   */
 public class MainActivity extends AppCompatActivity {
+    TextView textView;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        textView= (TextView) findViewById(R.id.show_tv);
     }
 
+    /**
+     * “滚动”的动作是由scrollTo()与scrollBy()方法产生的，但是他们都是瞬时完成“滚动”这一动作，而Scroller类就是在这一过程中添加中间过程，从而产生一个自然的动画。
+     */
+    int x=2;
+    int y=2;
     public void test(View view){
-//              view.scrollTo(50,50);//视图内容的移动,X轴，Y轴反向的移动
+
+        x+=2;
+        y+=2;
+        view.scrollBy(x,y);
+//              view.scrollTo(20,20);//视图内容的移动,X轴，Y轴反向的移动
 //              view.setTranslationX(50);//视图的移动，X轴正向移动
 //        view.setTranslationY(50);
-        view.setX(480);//相对于父视图左上角坐标系，X轴坐标为480像素
-        view.setY(480);
+//        view.setX(50);//相对于父视图左上角坐标系，X轴坐标为480像素
+//        view.setY(50);
+//        textView.setText("getScrollX=="+view.getScrollX()+"getScrollY=="+view.getScrollY());//getScrollX()和getScrollY()就，这两个方法就是获取滑动后屏幕相对于未滑动之前初始位置的相对位移。
     }
 }
