@@ -2,6 +2,7 @@ package com.hc.customlayoutmanager;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
+import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -21,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
         recyclerView = (RecyclerView) findViewById(R.id.recyclerView);
 
         initData();
-
+        LinearLayoutManager linearLayoutManager=new LinearLayoutManager(this);
         MyLayoutManager layoutManager = new MyLayoutManager();
         MyAdapter adapter = new MyAdapter();
         recyclerView.setLayoutManager(layoutManager);

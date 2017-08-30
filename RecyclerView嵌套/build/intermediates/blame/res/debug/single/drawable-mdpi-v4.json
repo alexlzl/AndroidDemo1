@@ -160,12 +160,12 @@
         "source": "C:\\Users\\liuzhouliang\\.android\\build-cache\\2e9f25977cb0399e08533db8a3c49b7170f27a71\\output\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
     },
     {
-        "merged": "D:\\Demo\\Demo1\\RecyclerView嵌套\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png",
-        "source": "C:\\Users\\liuzhouliang\\.android\\build-cache\\2e9f25977cb0399e08533db8a3c49b7170f27a71\\output\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png"
-    },
-    {
         "merged": "D:\\Demo\\Demo1\\RecyclerView嵌套\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
         "source": "C:\\Users\\liuzhouliang\\.android\\build-cache\\2e9f25977cb0399e08533db8a3c49b7170f27a71\\output\\res\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Demo\\Demo1\\RecyclerView嵌套\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "C:\\Users\\liuzhouliang\\.android\\build-cache\\2e9f25977cb0399e08533db8a3c49b7170f27a71\\output\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png"
     },
     {
         "merged": "D:\\Demo\\Demo1\\RecyclerView嵌套\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",

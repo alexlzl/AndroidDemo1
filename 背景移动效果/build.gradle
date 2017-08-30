@@ -1,7 +1,7 @@
 apply plugin: 'com.android.application'
 
 dependencies {
-    compile project(':library')
+    compile project(':背景移动效果Lib')
     compile 'com.android.support:support-v4:23.0.0'
     compile 'com.android.support:appcompat-v7:23.0.0'
     compile 'com.nostra13.universalimageloader:universal-image-loader:1.9.2'

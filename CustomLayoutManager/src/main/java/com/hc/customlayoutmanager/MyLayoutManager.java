@@ -7,11 +7,9 @@ import android.util.SparseArray;
 import android.view.View;
 import android.view.ViewGroup;
 
-/**
- * Package com.hc.customlayoutmanager
- * Created by HuaChao on 2016/6/6.
- */
+
 public class MyLayoutManager extends RecyclerView.LayoutManager {
+    private static  final String TAG="MyLayoutManager";
 
     private int verticalScrollOffset = 0;
     private int totalHeight = 0;
@@ -21,7 +19,8 @@ public class MyLayoutManager extends RecyclerView.LayoutManager {
 
     @Override
     public void onLayoutChildren(RecyclerView.Recycler recycler, RecyclerView.State state) {
-        //如果没有item，直接返回
+        Log.e(TAG,"onLayoutChildren");
+        //如果没有item，直接返回Returns the total number of items in the data set hold by the adapter.
         if (getItemCount() <= 0) return;
         // 跳过preLayout，preLayout主要用于支持动画
         if (state.isPreLayout()) {
@@ -37,7 +36,7 @@ public class MyLayoutManager extends RecyclerView.LayoutManager {
             //这里就是从缓存里面取出
             View view = recycler.getViewForPosition(i);
             //将View加入到RecyclerView中
-            addView(view);
+//            addView(view);
             measureChildWithMargins(view, 0, 0);
             int width = getDecoratedMeasuredWidth(view);
             int height = getDecoratedMeasuredHeight(view);
@@ -63,14 +62,16 @@ public class MyLayoutManager extends RecyclerView.LayoutManager {
 
     @Override
     public boolean canScrollVertically() {
+//        Log.e(TAG,"canScrollVertically");
         return true;
     }
 
 
     @Override
     public int scrollVerticallyBy(int dy, RecyclerView.Recycler recycler, RecyclerView.State state) {
+        Log.e(TAG,"scrollVerticallyBy"+"Y移动==="+dy);
         //先detach掉所有的子View
-        detachAndScrapAttachedViews(recycler);
+//        detachAndScrapAttachedViews(recycler);
 
         //实际要滑动的距离
         int travel = dy;
@@ -86,7 +87,7 @@ public class MyLayoutManager extends RecyclerView.LayoutManager {
         verticalScrollOffset += travel;
 
         // 平移容器内的item
-        offsetChildrenVertical(-travel);
+//        offsetChildrenVertical(-travel);
         recycleAndFillItems(recycler, state);
         Log.d("--->", " childView count:" + getChildCount());
         return travel;
@@ -102,6 +103,7 @@ public class MyLayoutManager extends RecyclerView.LayoutManager {
 
         // 当前scroll offset状态下的显示区域
         Rect displayFrame = new Rect(0, verticalScrollOffset, getHorizontalSpace(), verticalScrollOffset + getVerticalSpace());
+        Log.e(TAG,"recycleAndFillItems"+"视图区域==="+displayFrame.toString());
 
         /**
          * 将滑出屏幕的Items回收到Recycle缓存中
