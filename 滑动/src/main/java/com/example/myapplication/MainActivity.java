@@ -30,6 +30,8 @@ public class MainActivity extends AppCompatActivity {
 
     /**
      * “滚动”的动作是由scrollTo()与scrollBy()方法产生的，但是他们都是瞬时完成“滚动”这一动作，而Scroller类就是在这一过程中添加中间过程，从而产生一个自然的动画。
+     *
+     * 上面已经说明过Scroller类只是产生一个滚动的动画，而“滚动”这一动作还是由scrollTo()或者scrollBy()这两个方法完成的。现在把Scroller类的用法添加到上面演示scrollTo()方法的实例中去（只显示要改动代码的那部分）。如下：
      */
     int x=2;
     int y=2;
