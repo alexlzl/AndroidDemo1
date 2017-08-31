@@ -22,15 +22,12 @@ import android.widget.Toast;
 
 import com.example.myapplication1.R;
 
+import activity.MainActivity;
 
-/**
- * @ClassName: MyRVAdapter
- * @Description: TODO
- * @author SilentKnight || happychinapc@gmail.com
- * @date 2015年1月22日 下午4:54:25
- * 
- */
+
+
 public class MyRVAdapter extends RecyclerView.Adapter<MyRVAdapter.ViewHolder> {
+	private static final String TAG = MainActivity.class.getSimpleName();
 	private static int COUNT_CACHE_VIEW = 0;
 	private static final String ADAPTER_TAG = MyRVAdapter.class.getSimpleName();
 	private List<String> dataSet;
@@ -110,11 +107,12 @@ public class MyRVAdapter extends RecyclerView.Adapter<MyRVAdapter.ViewHolder> {
 	 * android.support.v7.widget.RecyclerView.Adapter#onCreateViewHolder
 	 * (android.view.ViewGroup, int)
 	 */
-
+     int position=0;
 	@Override
 	public ViewHolder onCreateViewHolder(ViewGroup viewGroup, int arg1) {
 		// TODO Auto-generated method stub
-		Log.i(ADAPTER_TAG, "itemTV---" + ++COUNT_CACHE_VIEW);
+		position++;
+		Log.e(TAG, "onCreateViewHolder---单ITEMTYPE=="+position );
 		View itemLayout = LayoutInflater.from(viewGroup.getContext()).inflate(
 				R.layout.recycler_view_item_layout_tv, null);
 		return new ViewHolder(itemLayout);

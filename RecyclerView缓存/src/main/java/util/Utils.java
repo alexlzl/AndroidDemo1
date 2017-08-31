@@ -11,13 +11,7 @@ package util;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * @ClassName: Utils
- * @Description: TODO
- * @author SilentKnight || happychinapc@gmail.com
- * @date 2015年1月22日 下午5:00:14
- * 
- */
+
 public final class Utils {
 	public static List<String> generateDataSet() {
 		List<String> dataSet = new ArrayList<String>();

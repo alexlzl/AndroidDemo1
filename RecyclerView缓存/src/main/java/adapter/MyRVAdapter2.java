@@ -23,15 +23,11 @@ import android.widget.TextView;
 
 import com.example.myapplication1.R;
 
+import activity.MainActivity;
 
-/**
- * @ClassName: MyRVAdapter2
- * @Description: TODO
- * @author SilentKnight || happychinapc@gmail.com
- * @date 2015年1月22日 下午4:55:31
- * 
- */
+
 public class MyRVAdapter2 extends RecyclerView.Adapter<MyRVAdapter2.ViewHolder> {
+	private static final String TAG = MainActivity.class.getSimpleName();
 	private static int COUNT_CACHE_VIEW_1 = 0;
 	private static int COUNT_CACHE_VIEW_2 = 0;
 	private static final String ADAPTER_TAG = MyRVAdapter2.class
@@ -147,16 +143,20 @@ public class MyRVAdapter2 extends RecyclerView.Adapter<MyRVAdapter2.ViewHolder> 
 	 * android.support.v7.widget.RecyclerView.Adapter#onCreateViewHolder
 	 * (android.view.ViewGroup, int)
 	 */
-
+	int position=0;
 	@Override
 	public ViewHolder onCreateViewHolder(ViewGroup viewGroup, int arg1) {
+		position++;
+
 		// TODO Auto-generated method stub
 		if (getItemViewType(arg1) == TYPE_TV) {
+			Log.e(TAG, "onCreateViewHolder---多ITEMTYPE==TYPE1=="+position  );
 			Log.i(ADAPTER_TAG, "itemTV---" + ++COUNT_CACHE_VIEW_1);
 			View itemLayout = LayoutInflater.from(viewGroup.getContext())
 					.inflate(R.layout.recycler_view_item_layout_tv, null);
 			return new ViewHolder(itemLayout, TYPE_TV);
 		} else {
+			Log.e(TAG, "onCreateViewHolder---多ITEMTYPE==TYPE2=="+position  );
 			Log.i(ADAPTER_TAG, "itemIV---" + ++COUNT_CACHE_VIEW_2);
 			View itemLayout = LayoutInflater.from(viewGroup.getContext())
 					.inflate(R.layout.recycler_view_item_layout_iv, null);
