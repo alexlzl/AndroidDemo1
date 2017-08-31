@@ -5,7 +5,7 @@ android {
     buildToolsVersion '25.0.0'
 
     dependencies {
-        compile project(':london-eye-layout-manager')
+        compile project(':CustomLayoutManager2Lib')
     }
 
     defaultConfig {

@@ -3,9 +3,14 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Bundle/Bundle.iml" filepath="$PROJECT_DIR$/Bundle/Bundle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChipsLayoutManager/ChipsLayoutManager.iml" filepath="$PROJECT_DIR$/ChipsLayoutManager/ChipsLayoutManager.iml" />
       <module fileurl="file://$PROJECT_DIR$/CustomLayoutManager/CustomLayoutManager.iml" filepath="$PROJECT_DIR$/CustomLayoutManager/CustomLayoutManager.iml" />
       <module fileurl="file://$PROJECT_DIR$/CustomLayoutManager1/CustomLayoutManager1.iml" filepath="$PROJECT_DIR$/CustomLayoutManager1/CustomLayoutManager1.iml" />
       <module fileurl="file://$PROJECT_DIR$/CustomLayoutManager1Lib/CustomLayoutManager1Lib.iml" filepath="$PROJECT_DIR$/CustomLayoutManager1Lib/CustomLayoutManager1Lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CustomLayoutManager2/CustomLayoutManager2.iml" filepath="$PROJECT_DIR$/CustomLayoutManager2/CustomLayoutManager2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CustomLayoutManager2Lib/CustomLayoutManager2Lib.iml" filepath="$PROJECT_DIR$/CustomLayoutManager2Lib/CustomLayoutManager2Lib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CustomLayoutManager3/CustomLayoutManager3.iml" filepath="$PROJECT_DIR$/CustomLayoutManager3/CustomLayoutManager3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CustomLayoutManager3Lib/CustomLayoutManager3Lib.iml" filepath="$PROJECT_DIR$/CustomLayoutManager3Lib/CustomLayoutManager3Lib.iml" />
       <module fileurl="file://$PROJECT_DIR$/DataBinding/DataBinding.iml" filepath="$PROJECT_DIR$/DataBinding/DataBinding.iml" />
       <module fileurl="file://$PROJECT_DIR$/DataBinding1/DataBinding1.iml" filepath="$PROJECT_DIR$/DataBinding1/DataBinding1.iml" />
       <module fileurl="file://$PROJECT_DIR$/DataBinding2/DataBinding2.iml" filepath="$PROJECT_DIR$/DataBinding2/DataBinding2.iml" />
@@ -31,6 +36,7 @@
       <module fileurl="file://$PROJECT_DIR$/RecyclerViewAdvancedDemo/RecyclerViewAdvancedDemo.iml" filepath="$PROJECT_DIR$/RecyclerViewAdvancedDemo/RecyclerViewAdvancedDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/RecyclerViewInsideScrollViewDemo/RecyclerViewInsideScrollViewDemo.iml" filepath="$PROJECT_DIR$/RecyclerViewInsideScrollViewDemo/RecyclerViewInsideScrollViewDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/RecyclerView嵌套/RecyclerView嵌套.iml" filepath="$PROJECT_DIR$/RecyclerView嵌套/RecyclerView嵌套.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RecyclerView缓存/RecyclerView缓存.iml" filepath="$PROJECT_DIR$/RecyclerView缓存/RecyclerView缓存.iml" />
       <module fileurl="file://$PROJECT_DIR$/RxJava_Retrofit/RxJava_Retrofit.iml" filepath="$PROJECT_DIR$/RxJava_Retrofit/RxJava_Retrofit.iml" />
       <module fileurl="file://$PROJECT_DIR$/SchemeURL/SchemeURL.iml" filepath="$PROJECT_DIR$/SchemeURL/SchemeURL.iml" />
       <module fileurl="file://$PROJECT_DIR$/SchemeURL1/SchemeURL1.iml" filepath="$PROJECT_DIR$/SchemeURL1/SchemeURL1.iml" />
@@ -42,8 +48,10 @@
       <module fileurl="file://$PROJECT_DIR$/TextView网络图片/TextView网络图片.iml" filepath="$PROJECT_DIR$/TextView网络图片/TextView网络图片.iml" />
       <module fileurl="file://$PROJECT_DIR$/TextView解析html/TextView解析html.iml" filepath="$PROJECT_DIR$/TextView解析html/TextView解析html.iml" />
       <module fileurl="file://$PROJECT_DIR$/WindowManager/WindowManager.iml" filepath="$PROJECT_DIR$/WindowManager/WindowManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/carousel/carousel.iml" filepath="$PROJECT_DIR$/carousel/carousel.iml" />
       <module fileurl="file://$PROJECT_DIR$/databinding_bindingconversion/databinding_bindingconversion.iml" filepath="$PROJECT_DIR$/databinding_bindingconversion/databinding_bindingconversion.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo/demo.iml" filepath="$PROJECT_DIR$/demo/demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample1/sample1.iml" filepath="$PROJECT_DIR$/sample1/sample1.iml" />
       <module fileurl="file://$PROJECT_DIR$/下载/下载.iml" filepath="$PROJECT_DIR$/下载/下载.iml" />
       <module fileurl="file://$PROJECT_DIR$/任务切换后台/任务切换后台.iml" filepath="$PROJECT_DIR$/任务切换后台/任务切换后台.iml" />
       <module fileurl="file://$PROJECT_DIR$/任务切换后台lib/任务切换后台lib.iml" filepath="$PROJECT_DIR$/任务切换后台lib/任务切换后台lib.iml" />

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\Demo\\Demo1\\SchemeURL\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "D:\\Demo\\Demo1\\SchemeURL\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Demo\\Demo1\\SchemeURL\\build\\intermediates\\res\\merged\\debug\\layout\\activity_second.xml",
+        "source": "D:\\Demo\\Demo1\\SchemeURL\\src\\main\\res\\layout\\activity_second.xml"
+    }
+]

@@ -10,9 +10,14 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Bundle" />
+            <option value="$PROJECT_DIR$/ChipsLayoutManager" />
             <option value="$PROJECT_DIR$/CustomLayoutManager" />
             <option value="$PROJECT_DIR$/CustomLayoutManager1" />
             <option value="$PROJECT_DIR$/CustomLayoutManager1Lib" />
+            <option value="$PROJECT_DIR$/CustomLayoutManager2" />
+            <option value="$PROJECT_DIR$/CustomLayoutManager2Lib" />
+            <option value="$PROJECT_DIR$/CustomLayoutManager3" />
+            <option value="$PROJECT_DIR$/CustomLayoutManager3Lib" />
             <option value="$PROJECT_DIR$/DataBinding" />
             <option value="$PROJECT_DIR$/DataBinding1" />
             <option value="$PROJECT_DIR$/DataBinding2" />
@@ -36,6 +41,7 @@
             <option value="$PROJECT_DIR$/RecyclerViewAdvancedDemo" />
             <option value="$PROJECT_DIR$/RecyclerViewInsideScrollViewDemo" />
             <option value="$PROJECT_DIR$/RecyclerView嵌套" />
+            <option value="$PROJECT_DIR$/RecyclerView缓存" />
             <option value="$PROJECT_DIR$/RxJava_Retrofit" />
             <option value="$PROJECT_DIR$/SchemeURL" />
             <option value="$PROJECT_DIR$/SchemeURL1" />
@@ -47,8 +53,10 @@
             <option value="$PROJECT_DIR$/TextView网络图片" />
             <option value="$PROJECT_DIR$/TextView解析html" />
             <option value="$PROJECT_DIR$/WindowManager" />
+            <option value="$PROJECT_DIR$/carousel" />
             <option value="$PROJECT_DIR$/databinding_bindingconversion" />
             <option value="$PROJECT_DIR$/demo" />
+            <option value="$PROJECT_DIR$/sample1" />
             <option value="$PROJECT_DIR$/下载" />
             <option value="$PROJECT_DIR$/任务切换后台" />
             <option value="$PROJECT_DIR$/任务切换后台lib" />

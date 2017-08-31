@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "D:\\Demo\\Demo1\\Scroller2\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\button_red.9.png",
+        "source": "D:\\Demo\\Demo1\\Scroller2\\src\\main\\res\\drawable-xhdpi\\button_red.9.png"
+    },
+    {
+        "merged": "D:\\Demo\\Demo1\\Scroller2\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\main_screen_rocket.png",
+        "source": "D:\\Demo\\Demo1\\Scroller2\\src\\main\\res\\drawable-xhdpi\\main_screen_rocket.png"
+    },
+    {
+        "merged": "D:\\Demo\\Demo1\\Scroller2\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\container_rocket_left.png",
+        "source": "D:\\Demo\\Demo1\\Scroller2\\src\\main\\res\\drawable-xhdpi\\container_rocket_left.png"
+    },
+    {
+        "merged": "D:\\Demo\\Demo1\\Scroller2\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\container_rocket_right.png",
+        "source": "D:\\Demo\\Demo1\\Scroller2\\src\\main\\res\\drawable-xhdpi\\container_rocket_right.png"
+    },
+    {
+        "merged": "D:\\Demo\\Demo1\\Scroller2\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\button_red_pressed.9.png",
+        "source": "D:\\Demo\\Demo1\\Scroller2\\src\\main\\res\\drawable-xhdpi\\button_red_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Demo\\Demo1\\Scroller2\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "D:\\Demo\\Demo1\\Scroller2\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Demo\\Demo1\\Scroller2\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\container_rocket.png",
+        "source": "D:\\Demo\\Demo1\\Scroller2\\src\\main\\res\\drawable-xhdpi\\container_rocket.png"
+    }
+]

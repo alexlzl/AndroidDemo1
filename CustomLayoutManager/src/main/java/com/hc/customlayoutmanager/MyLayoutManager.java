@@ -35,6 +35,7 @@ public class MyLayoutManager extends RecyclerView.LayoutManager {
 
             //这里就是从缓存里面取出
             View view = recycler.getViewForPosition(i);
+//            Log.e(TAG,"itemview对象"+view.getId());
             //将View加入到RecyclerView中
 //            addView(view);
             measureChildWithMargins(view, 0, 0);

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="default_1">#335566</color>
+    <color name="hover">#003399</color>
+    <color name="select">#330099</color>
+    <color name="press">#009933</color>
+
+</resources>

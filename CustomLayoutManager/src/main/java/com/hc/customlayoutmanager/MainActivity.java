@@ -4,6 +4,7 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -12,6 +13,7 @@ import android.widget.TextView;
 import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
+    private static  final String TAG="MyLayoutManager";
     private RecyclerView recyclerView;
     private ArrayList<MyEntity> myData;
 
@@ -45,6 +47,7 @@ public class MainActivity extends AppCompatActivity {
 
         @Override
         public MyViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
+            Log.e(TAG,"onCreateViewHolder");
             View v = LayoutInflater.from(MainActivity.this).inflate(R.layout.recycler_view_item, parent, false);
 
             MyViewHolder viewHolder = new MyViewHolder(v);

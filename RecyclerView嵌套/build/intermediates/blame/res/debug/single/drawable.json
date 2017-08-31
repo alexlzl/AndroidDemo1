@@ -12,12 +12,12 @@
         "source": "C:\\Users\\liuzhouliang\\.android\\build-cache\\2e9f25977cb0399e08533db8a3c49b7170f27a71\\output\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
-        "merged": "D:\\Demo\\Demo1\\RecyclerView嵌套\\build\\intermediates\\res\\merged\\debug\\drawable\\sample_footer_loading_progress.xml",
-        "source": "C:\\Users\\liuzhouliang\\.android\\build-cache\\b15664144932f766cb4d9e5a597a5d632f6bad53\\output\\res\\drawable\\sample_footer_loading_progress.xml"
-    },
-    {
         "merged": "D:\\Demo\\Demo1\\RecyclerView嵌套\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
         "source": "C:\\Users\\liuzhouliang\\.android\\build-cache\\2e9f25977cb0399e08533db8a3c49b7170f27a71\\output\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Demo\\Demo1\\RecyclerView嵌套\\build\\intermediates\\res\\merged\\debug\\drawable\\sample_footer_loading_progress.xml",
+        "source": "C:\\Users\\liuzhouliang\\.android\\build-cache\\b15664144932f766cb4d9e5a597a5d632f6bad53\\output\\res\\drawable\\sample_footer_loading_progress.xml"
     },
     {
         "merged": "D:\\Demo\\Demo1\\RecyclerView嵌套\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
