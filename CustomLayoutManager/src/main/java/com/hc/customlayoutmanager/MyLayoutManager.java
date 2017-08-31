@@ -50,7 +50,7 @@ public class MyLayoutManager extends RecyclerView.LayoutManager {
             if (frame == null) {
                 frame = new Rect();
             }
-            frame.set(0, offsetY, width, offsetY + height);
+            frame.set(i, offsetY, width, offsetY + height);
             // 将当前的Item的Rect边界数据保存
             allItemFrames.put(i, frame);
 
