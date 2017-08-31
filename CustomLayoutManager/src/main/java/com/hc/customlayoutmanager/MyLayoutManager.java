@@ -27,7 +27,10 @@ public class MyLayoutManager extends RecyclerView.LayoutManager {
             return;
         }
         //在布局之前，将所有的子View先Detach掉，放入到Scrap缓存中
-        detachAndScrapAttachedViews(recycler);
+//        detachAndScrapAttachedViews(recycler);
+        /**
+         * 缓存每个ITEM布局范围=====================================
+         */
         //定义竖直方向的偏移量
         int offsetY = 0;
         totalHeight = 0;
@@ -38,7 +41,7 @@ public class MyLayoutManager extends RecyclerView.LayoutManager {
 //            Log.e(TAG,"itemview对象"+view.getId());
             //将View加入到RecyclerView中
 //            addView(view);
-            measureChildWithMargins(view, 0, 0);
+            measureChildWithMargins(view, 0, 0);//测量过后可以获取视图宽高信息
             int width = getDecoratedMeasuredWidth(view);
             int height = getDecoratedMeasuredHeight(view);
 
@@ -86,7 +89,7 @@ public class MyLayoutManager extends RecyclerView.LayoutManager {
 
         //将竖直方向的偏移量+travel
         verticalScrollOffset += travel;
-
+        Log.e(TAG,"scrollVerticallyBy"+"verticalScrollOffset==="+verticalScrollOffset);
         // 平移容器内的item
 //        offsetChildrenVertical(-travel);
         recycleAndFillItems(recycler, state);
@@ -130,9 +133,11 @@ public class MyLayoutManager extends RecyclerView.LayoutManager {
             if (Rect.intersects(displayFrame, allItemFrames.get(i))) {
 
                 View scrap = recycler.getViewForPosition(i);
-                measureChildWithMargins(scrap, 0, 0);
+                measureChildWithMargins(scrap, 0, 0);//测量=========================1
                 addView(scrap);
-
+                /**
+                 * 布局====================2
+                 */
                 Rect frame = allItemFrames.get(i);
                 //将这个item布局出来
                 layoutDecorated(scrap,

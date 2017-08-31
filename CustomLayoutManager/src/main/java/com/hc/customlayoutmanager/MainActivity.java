@@ -41,13 +41,14 @@ public class MainActivity extends AppCompatActivity {
             myData.add(e);
         }
     }
-
+           int position=0;
     //自定义Adapter
     class MyAdapter extends RecyclerView.Adapter<MyViewHolder> {
 
         @Override
         public MyViewHolder onCreateViewHolder(ViewGroup parent, int viewType) {
-            Log.e(TAG,"onCreateViewHolder");
+            position++;
+            Log.e(TAG,"onCreateViewHolder==="+position);
             View v = LayoutInflater.from(MainActivity.this).inflate(R.layout.recycler_view_item, parent, false);
 
             MyViewHolder viewHolder = new MyViewHolder(v);
