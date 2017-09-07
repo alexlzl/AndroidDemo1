@@ -6,6 +6,7 @@ import android.view.View;
 import android.widget.TextView;
 
 /**
+ * http://blog.csdn.net/eieihihi/article/details/45668189
  * 注意：调用View的scrollTo()和scrollBy()是用于滑动View中的内容，而不是把某个View的位置进行改变。如果想改变莫个View在屏幕中的位置，可以使用如下的方法。
 
  调用public void offsetLeftAndRight(int offset)用于左右移动方法或public void offsetTopAndBottom(int offset)用于上下移动。
